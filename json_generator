@@ -1,0 +1,34 @@
+{
+  "walking": [
+    {
+      "name": "Golf, walking and carrying clubs",
+      "calories_per_hour": 327,
+      "duration_minutes": 60,
+      "total_calories": 327
+    },
+    {
+      "name": "Golf, walking and pulling clubs",
+      "calories_per_hour": 312,
+      "duration_minutes": 60,
+      "total_calories": 312
+    },
+    {
+      "name": "Horseback riding, walking",
+      "calories_per_hour": 181,
+      "duration_minutes": 60,
+      "total_calories": 181
+    },
+    {
+      "name": "Pushing stroller or walking with children",
+      "calories_per_hour": 181,
+      "duration_minutes": 60,
+      "total_calories": 181
+    },
+    {
+      "name": "Race walking",
+      "calories_per_hour": 472,
+      "duration_minutes": 60,
+      "total_calories": 472
+    }
+  ]
+}
